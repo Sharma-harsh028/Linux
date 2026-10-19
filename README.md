@@ -1,4 +1,16 @@
 # Linux
+<html>
+
+
+<body>
+
+
+<p>cd => Change directory</p>
+
+</body>
+
+
+</html>
 Day 1(Basic Commands)
 
 cd => Change directory
